@@ -12,9 +12,6 @@
     "url": "git+https://github.com/fboldo/rapicare-dds.git"
   },
   "homepage": "https://github.com/fboldo/rapicare-dds#readme",
-  "dependencies": {
-    "require-all": "^3.0.0"
-  },
   "devDependencies": {
     "@types/jest": "^24.9.0",
     "jest": "^25.1.0",
