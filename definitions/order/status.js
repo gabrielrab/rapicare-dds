@@ -41,4 +41,7 @@ module.exports = {
   active: {
     label: 'Ativo',
   },
+  'products-received': {
+    label: 'Produtos recebidos',
+  },
 };
